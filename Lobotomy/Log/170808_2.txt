@@ -1,3 +1,15 @@
-[1.0.2.13f1]	[23/08/2026 21:00:29]
+[1.0.2.13f1]	[20/08/2026 17:22:37]
 Log Output:
+Log : creature/BloodyTree/MustSee_Atk3
+
+StackTrace : 
+
+Log : creature/BloodyTree/MustSee_Atk1
+
+StackTrace : 
+
+Log : creature/BloodyTree/MustSee_Atk1
+
+StackTrace : 
+
 
